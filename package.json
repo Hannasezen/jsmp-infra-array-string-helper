@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Helper for arrays and strings",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hannasezen/jsmp-infra-array-string-helper"
+  },
   "scripts": {
     "compile": "babel src -d lib",
     "clean": "rimraf lib",
